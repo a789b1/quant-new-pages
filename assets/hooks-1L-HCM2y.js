@@ -1,0 +1,1 @@
+import{d as e}from"./components-T5-r4yj-.js";import{p as t}from"./table-DlQp36gO.js";function n(){return t({queryKey:[`auth`],queryFn:()=>e(`/auth/me`),retry:!1})}export{n as t};
