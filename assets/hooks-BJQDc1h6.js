@@ -1,0 +1,1 @@
+import{d as e}from"./components-DVVDYm3d.js";import{p as t}from"./table-DYBOfaN9.js";function n(){return t({queryKey:[`auth`],queryFn:()=>e(`/auth/me`),retry:!1})}export{n as t};
